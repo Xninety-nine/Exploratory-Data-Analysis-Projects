@@ -1,5 +1,5 @@
-# Exploring Factors That Contribute To Student Math Scores
-## Project Overview and Insights Gained:
+# Exploring Data Analysis of factors that contribute to student nath scores
+## Project Overview:
 
 ![image](https://github.com/user-attachments/assets/80803e3a-3609-48d0-bbeb-29ee38492ce6)
 
@@ -32,7 +32,9 @@ Dataset can be downloaded from Kaggle: [Student Performance in Exams](https://ww
 
 64% of students in the data set are on standard lunch and 35.5% are on free/reduced lunch. This indicates that the dataset in imbalanced. To determine if socio-economic status is a factor I will perform a t-test to determine if there is a difference in average scores between these groups and if that difference is statistically significant. 
 
-! [Boxplot of Lunch status and math scores] ![image](https://github.com/user-attachments/assets/a6ab2e67-8bad-4911-8a43-2cab8f63d8fe)
+[Boxplot of Lunch status and math scores] 
+
+![image](https://github.com/user-attachments/assets/a6ab2e67-8bad-4911-8a43-2cab8f63d8fe)
 
 
 ### Hypothesis testing:
@@ -41,7 +43,8 @@ Null Hypothesis: The observed difference in math scores between standard and fre
 Alternative Hypothesis: the observed difference in math scores between standard and free/reduced lunch is not due to chance.
 
 ### T-test:
-! [T-test](<img width="829" alt="image" src="https://github.com/user-attachments/assets/f71b691b-a372-431d-a7ba-2f85b5da1d03" />
+
+(<img width="829" alt="image" src="https://github.com/user-attachments/assets/f71b691b-a372-431d-a7ba-2f85b5da1d03" />
 )
 
 ### Conclustion on EDA for socio-economic status and maths scores:
@@ -62,8 +65,11 @@ I must explore these variables further to gain deeper understanding of factors t
 ![Gender Historgram Visualization] (<img width="889" alt="image" src="https://github.com/user-attachments/assets/3bfbcccb-1218-4706-a0b8-8a192d342c3c" />
 )
 
-![Gender Boxplot] (![image](https://github.com/user-attachments/assets/e9405cbe-8d2b-46ff-b101-8d6ff102e807)
-)
+### Gender Boxplot
+
+![image](https://github.com/user-attachments/assets/e9405cbe-8d2b-46ff-b101-8d6ff102e807)
+
+
 ### Hypothesis Testing: Gender
 
 Null Hypothesis: The observed difference in math scores between males and females is due to chance.
@@ -88,7 +94,7 @@ Race/Ethnicity Distribution in the dataset
 
 
 
-Boxplot of Math score by Race/Ethnicity:
+### Boxplot of Math score by Race/Ethnicity:
 
 ![image](https://github.com/user-attachments/assets/c1645f32-580b-4da4-9595-ec602af0a09d)
 
@@ -136,7 +142,7 @@ Higher parental education is associated with higher math scores. The biggest dif
 
 ### EDA test prep conclusion:
 
-Given that the average test scores of students who did not prepare for the test is 64 vs those who did is 69. This difference is statistically significant at a p-value fare below 5%, however I can not conlcude that this difference is average score is due only to test preperation variable as there could be confounding variables unaccounted for. For example a student might not have done test prep because they could be from lower socio-economic status and such prep would require payment or transportation ect. The only thing that can be concluded from this is that there is a difference in average math score between those who did test preperation and those who did not.
+### Given that the average test scores of students who did not prepare for the test is 64 vs those who did is 69. This difference is statistically significant at a p-value fare below 5%, however I can not conlcude that this difference is average score is due only to test preperation variable as there could be confounding variables unaccounted for. For example a student might not have done test prep because they could be from lower socio-economic status and such prep would require payment or transportation ect. The only thing that can be concluded from this is that there is a difference in average math score between those who did test preperation and those who did not.
 
 
 
