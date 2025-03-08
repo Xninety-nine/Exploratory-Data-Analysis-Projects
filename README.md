@@ -1,4 +1,4 @@
-# Exploring Data Analysis of factors that contribute to student nath scores
+# Exploring Data Analysis of Factors That Contribute to Student Math Scores
 ## Project Overview:
 
 ![image](https://github.com/user-attachments/assets/80803e3a-3609-48d0-bbeb-29ee38492ce6)
