@@ -145,6 +145,15 @@ Higher parental education is associated with higher math scores. The biggest dif
 ### Given that the average test scores of students who did not prepare for the test is 64 vs those who did is 69. This difference is statistically significant at a p-value fare below 5%, however I can not conlcude that this difference is average score is due only to test preperation variable as there could be confounding variables unaccounted for. For example a student might not have done test prep because they could be from lower socio-economic status and such prep would require payment or transportation ect. The only thing that can be concluded from this is that there is a difference in average math score between those who did test preperation and those who did not.
 
 
+### Correleation Matrix:
+
+![image](https://github.com/user-attachments/assets/74c492cb-ed39-4c63-a2d8-d7c1b3ef54ec)
+
+
+### Observations based on correlation matrix:
+
+The top three positive correlatated features for math scores are lunch standard with a correlation score of .35, this indicates that students from higher income familes tend to perform better in math. Next highest correlated feature with math score is race/ethnicity E. This indicates that students in this race/ethincity group earned higher math scores. Test preperation course completed also had a positive correlation of .18 and male students had a positive correlation with higher math score at .17.
+
 
 
 
