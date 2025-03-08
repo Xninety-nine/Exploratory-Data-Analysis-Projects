@@ -1,6 +1,13 @@
 # Exploring Factors That Contribute To Student Math Scores
 ## Project Overview and Insights Gained:
 
+![image](https://github.com/user-attachments/assets/80803e3a-3609-48d0-bbeb-29ee38492ce6)
+
+
+
+
+
+
 U.S. students' math scores fall behind when compared to those of many other developed countries. This is evident by the 2022 Programme for International Student Assessment results. The U.S. ranked 18th in math amoung the participating countries. U.S. students averaged a score of 489.3 which was below the average score of 494 and significantly behind the top scores of 559.7.
 
 These scores showed a drop of 13 points compared to the results from 2018. 
