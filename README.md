@@ -148,7 +148,8 @@ Lowest average scores (53.93) are from students who are on free/reduced lunch an
 ### Distribution of data by Parental Level of Education and Lunch Type
 
 
-![image](https://github.com/user-attachments/assets/fb691501-38f5-4cbd-8548-6fffbc44d4db)
+![image](https://github.com/user-attachments/assets/527c8ce1-5375-4388-b152-fd90c6c0a147)
+
 
 
 
@@ -174,10 +175,11 @@ Lowest average scores (53.93) are from students who are on free/reduced lunch an
 
 ### Distribution of data:
 
-![image](https://github.com/user-attachments/assets/2e4eba4f-bcc0-40dc-87d2-53050e5ed23b)
+![image](https://github.com/user-attachments/assets/9f84f78f-4474-423d-a82b-59ba730747a8)
 
 
-### Math Scores by Test Prep and Socio-Economic Status:
+
+### Average Math Scores by Test Prep and Socio-Economic Status:
 
 ![image](https://github.com/user-attachments/assets/92ff80ee-b108-476a-bca4-272ccd9754ae)
 
