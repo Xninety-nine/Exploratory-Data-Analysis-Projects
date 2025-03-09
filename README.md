@@ -122,6 +122,15 @@ Group A has the lowest average score at 61 and group B has an average score of 6
 
 ### ANOVA Results: Based on these results I can conclude that there is a statistically significance between math scores and different levels of parent education. 
 
+
+
+### Pairwise Tukey test: Used to determine which specific groups in an ANOVA test are significantly different from each other.
+
+![image](https://github.com/user-attachments/assets/cb82b4a4-b099-457a-9c81-623fcefc33c7)
+
+
+
+
 ### Conclusion based on Parental level of Education and Math Scores:
 
 Higher parental education is associated with higher math scores. The biggest difference in math scores is between students whose parents have a master's degree vs. high school diploma, with an average difference of 7 points. There also seems to be no significant difference between master's and bachelor's which could be interpreted as diminishing returns.
@@ -176,6 +185,9 @@ Lowest average scores (53.93) are from students who are on free/reduced lunch an
 ### Distribution of data:
 
 ![image](https://github.com/user-attachments/assets/9f84f78f-4474-423d-a82b-59ba730747a8)
+
+
+### 36.5% of students who took test preparation course were free/reduced lunch status. 
 
 
 
