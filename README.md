@@ -127,8 +127,35 @@ Group A has the lowest average score at 61 and group B has an average score of 6
 Higher parental education is associated with higher math scores. The biggest difference in math scores is between students whose parents have a master's degree vs. high school diploma, with an average difference of 7 points. There also seems to be no significant difference between master's and bachelor's which could be interpreted as diminishing returns.
 
 
+### EDA Parental Level of Education, Socio-economic Status and Math Scores
+
+Before concluding this section I decided to explore the relationships between parental level of education, socio-econimic status and math scores. I did this because it occured to me that parents with a higher level of education might on average earn more than those without. This means that parental level of education might be a factors because of money and not academic status reached by a students parent. 
+
+
+### Violin Plot to display distribution of parental levels of education and lunch status:
+
+![image](https://github.com/user-attachments/assets/11a2e4e1-8c44-4343-8f8d-db8029c5faea)
+
+
+### Comparing average scores based on lunch status and parental level of education:
+
+![image](https://github.com/user-attachments/assets/817a10cc-18e7-4962-943e-270dfdd6b4f6)
+
+
+Lowest average scores (53.93) are from students who are on free/reduced lunch and their parents education level is 'some highschool'. Highest average scores (75.63) are from students who have a lunch status of standard and who's parents level of education is 'master's degree'. 
+
+
+### Distribution of data by Parental Level of Education and Lunch Type
+
+
+![image](https://github.com/user-attachments/assets/fb691501-38f5-4cbd-8548-6fffbc44d4db)
+
+
+
+
 
 ### EDA on test preperation courses and math scores
+
 
 ![image](https://github.com/user-attachments/assets/4d4c592d-c11c-48e0-93f3-c81223f804af)
 
@@ -139,6 +166,26 @@ Higher parental education is associated with higher math scores. The biggest dif
 ### Hypothesis: The difference in test scores between students who took test preperation courses and those who did not is due to chance.
 
 ![image](https://github.com/user-attachments/assets/643b620c-9c54-4da8-8837-5bdb180424fc)
+
+
+
+### Exploring relationships between Test Preparation and Socio-Economic Status 
+
+
+### Distribution of data:
+
+![image](https://github.com/user-attachments/assets/2e4eba4f-bcc0-40dc-87d2-53050e5ed23b)
+
+
+### Math Scores by Test Prep and Socio-Economic Status:
+
+![image](https://github.com/user-attachments/assets/92ff80ee-b108-476a-bca4-272ccd9754ae)
+
+### Observation: Students who are who are on free/reduced lunch and completed a test preparation course on average scored 7 points higher than students who are on free/reduced lunch and did not complete a test preparation course. Furthermore students who are on Standard lunch and completed a test preparation course on average scored aproximately 5 points higher than students who are on standard lunch and did not complete a test preparation course.
+
+### Note: Statistical tests can be done to check if these differences are statistically significant. 
+
+
 
 ### EDA test prep conclusion:
 
@@ -153,6 +200,25 @@ Higher parental education is associated with higher math scores. The biggest dif
 ### Observations based on correlation matrix:
 
 The top three positive correlatated features for math scores are lunch standard with a correlation score of .35, this indicates that students from higher income familes tend to perform better in math. Next highest correlated feature with math score is race/ethnicity E. This indicates that students in this race/ethincity group earned higher math scores. Test preperation course completed also had a positive correlation of .18 and male students had a positive correlation with higher math score at .17.
+
+
+
+# EDA Conclusion:
+
+## Key Insights:
+
+
+1) Socio-economic status is a big predictor in how students will perform on math tests.
+2) Parental level of education is also a very important factor in predicting student math scores.
+3) Test preperation also plays a role although not as much as the previous two features. 
+4) Gender seems to play a slight role in student math scores.
+5) Students who completed a test preparation course outperformed their counter parts regardless of socio-economic status.
+
+
+# Suggestions based on EDA:
+1) Policy makers should attempt to aquire funds to provide schools with a high population of students of low socio-economic status with test prepartion courses. Unlike other factors which are out of policy maker control, test preparation course are something that can be implemented and should have a positive effect on student math performance, especially for students who are free/reduced lunch as these are the lowest scoring students.
+   
+2) Schools should prioritize test preparation courses as this is a factor that is with in their control.
 
 
 
