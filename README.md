@@ -32,9 +32,19 @@ Dataset can be downloaded from Kaggle: [Student Performance in Exams](https://ww
 
 64% of students in the data set are on standard lunch and 35.5% are on free/reduced lunch. This indicates that the dataset in imbalanced. To determine if socio-economic status is a factor I will perform a t-test to determine if there is a difference in average scores between these groups and if that difference is statistically significant. 
 
+[Pie Chart displaying distribution of Lunch status]
+
+
+![image](https://github.com/user-attachments/assets/ac702cf9-32c8-4b1b-821f-360b1c8ef653)
+
+
+
+
+
 [Boxplot of Lunch status and math scores] 
 
-![image](https://github.com/user-attachments/assets/a6ab2e67-8bad-4911-8a43-2cab8f63d8fe)
+![image](https://github.com/user-attachments/assets/821d07cd-eb43-4160-8153-58c80647ae2a)
+
 
 
 ### Hypothesis testing:
@@ -67,7 +77,8 @@ I must explore these variables further to gain deeper understanding of factors t
 
 ### Gender Boxplot
 
-![image](https://github.com/user-attachments/assets/e9405cbe-8d2b-46ff-b101-8d6ff102e807)
+![image](https://github.com/user-attachments/assets/ae0c83fb-8012-4436-836b-a0335c9b6d63)
+
 
 
 ### Hypothesis Testing: Gender
