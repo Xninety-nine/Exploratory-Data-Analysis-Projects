@@ -22,6 +22,15 @@ Identifying factors that contribute to math performances will help inform school
 Insights gained from this project can help schools identify controlable factors that improve student math performance.
 
 
+## Tech Stack:
+- Python
+- Pandas
+- Seaborn
+- Matplotlib
+- SciPy
+
+
+
 ## Data
 Dataset can be downloaded from Kaggle: [Student Performance in Exams](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams)
 
@@ -197,7 +206,7 @@ Lowest average scores (53.93) are from students who are on free/reduced lunch an
 ![image](https://github.com/user-attachments/assets/9f84f78f-4474-423d-a82b-59ba730747a8)
 
 
-### 36.5% of students who took test preparation course were free/reduced lunch status. 
+### 358 out of 1,000 students took test preperation courses. Out of the 358 who took test preperation cousres 131 were free/reduced lunch status.
 
 
 
